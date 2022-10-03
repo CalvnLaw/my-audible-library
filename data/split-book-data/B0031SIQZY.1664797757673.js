@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<i>The Citadel of the Autarch</i> brings The Book of the New Sun to its harrowing conclusion, as Severian clashes in a final reckoning with the dread Autarch, fulfilling an ancient prophecy that will alter forever the realm known as Urth."; 

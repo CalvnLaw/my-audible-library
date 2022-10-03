@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<i>The Claw of the Conciliator</i> continues the saga of Severian, banished from his home, as he undertakes a mythic quest to discover the awesome power of an ancient relic, and learn the truth about his hidden destiny."; 

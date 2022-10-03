@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The attack on Pearl Harbor swept America into the raging heart of the war. The stormy South Pacific presented a daring new challenge, and the men of the Corps were ready to fight. An elite fraternity united by a glorious tradition of courage and honor, the Marine Raiders were bound to a triumphant destiny....</p>"; 

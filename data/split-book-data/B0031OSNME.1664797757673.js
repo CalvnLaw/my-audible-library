@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>The Sword of the Lictor</i> is the third volume in Wolfe's remarkable epic, chronicling the odyssey of the wandering pilgrim called Severian, driven by a powerful and unfathomable destiny, as he carries out a dark mission far from his home.</p>"; 

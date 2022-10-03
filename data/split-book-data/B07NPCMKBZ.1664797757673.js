@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Hermeticism is a religious/philosophical ideology based upon writings attributed to Hermes Trismegistus (ancient Greek god). This Hermetic collection contains the most influential Hermetic writings: <i>The Kybalion</i>, <i>Corpus Hermeticum: The Divine Pymander of Hermes</i>, and <i>The Life and Teachings of Thoth Hermes Trismegistus</i>.</p>"; 
