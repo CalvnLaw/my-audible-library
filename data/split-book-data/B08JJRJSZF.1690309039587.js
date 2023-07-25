@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Space dick, Ace Galaksi travels the cosmos in a sentient shape changing ship with an equally sentient self destruct program, solving mysteries for the editors at the Giant Book of Destiny"; 

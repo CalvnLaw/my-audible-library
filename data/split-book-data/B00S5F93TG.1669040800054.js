@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>A brilliant, shattering, and convincing account of United States-backed suppression of political and human rights in the Third World... It relentlessly dissects the official views of Establishment scholars and their journals. The \"best and brightest\" pundits of the status quo emerge from this audiobook thoroughly denuded of their credibility.</p>"; 

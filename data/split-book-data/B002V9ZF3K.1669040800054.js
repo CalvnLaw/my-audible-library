@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "In this intense detective thriller instilled with philosophical, religious, and social commentary, Dostoevsky studies the psychological impact upon a desperate and impoverished student when he murders a despicable pawnbroker, transgressing moral law to ultimately \"benefit humanity\"."; 

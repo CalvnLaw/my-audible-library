@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p><i>The Cave and the Light</i> reveals how two Greek philosophers became the twin fountainheads of Western culture, and how their rivalry gave Western civilization its unique dynamism down to the present.</p>"; 

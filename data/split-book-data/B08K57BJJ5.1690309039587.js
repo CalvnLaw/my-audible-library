@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Discover every CBS Radio Mystery Theater episode currently available!If you like this series, check us out at https://otrpodcasts.com for even more classic radio shows!Audio Credit: \"CBS Radio Mystery Theater\" by The Old Time Radio Researchers Group"; 

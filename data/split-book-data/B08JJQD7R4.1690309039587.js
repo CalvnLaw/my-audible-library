@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Nature isn’t just “out there” in some pristine or far-off location. It’s all around us, including right outside our doors. Join us as we ignite our curiosity and natural wonder, explore our yards and communities, and improve our local pollinator and wildlife habitat."; 

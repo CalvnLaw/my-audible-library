@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Paul Bianchi sits down with his best friend and comedic writing partner Sarah Oliver to teach her everything he knows about the bizarre, and sometimes hilarious tales of Greek Mythology. New Episodes released every other Wednesday. #MythunderstoodPodcast Mythunderstood is part of the Dragon Wagon Radio podcast network. www.DragonWagonRadio.com"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Lore is a bi-weekly podcast (now also a TV show and book series) about dark historical tales. Each episode explores the mysterious creatures, tragic events, and unusual places that fill the pages of history. Because sometimes the truth is more frightening than fiction."; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Plants are everything. They are also incredibly interesting. From the smallest duckweed to the tallest redwood, the botanical world is full of wonder. Tune in for a podcast celebrating everything botany.</p>"; 

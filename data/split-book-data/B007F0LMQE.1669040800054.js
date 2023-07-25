@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>This classic explains American philosopher George Stuary Fullerton's realistic views on philosophy. Fullerton, born in India, spent time at the University of Pennsylvania, Yale Divinity School, Columbia University, and the University of Vienna. He was president of the American Psychological Association in 1896.</p>"; 

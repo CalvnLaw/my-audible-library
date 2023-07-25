@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Discover every The Shadow episode currently available! If you like this series, check us out at https://otrpodcasts.com for even more classic radio shows! Audio Credit: \"The Shadow\" by The Old Time Radio Researchers Group"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "The Science of Birds is a lighthearted exploration of bird biology. It's a fun resource for any birder or naturalist who wants to learn more about ornithology. Impress your birding friends at cocktail parties with all of your new bird knowledge! Hosted by Ivan Phillipsen, a passionate naturalist with a PhD in Zoology."; 

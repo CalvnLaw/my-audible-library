@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "With a history of publishing excellence, a top-notch team of talented contributors, galactic reach, and peerless coverage and insight, Sagittarius Eye is your indispensable companion to the Milky Way. We are Sagittarius Eye — we see all…"; 
