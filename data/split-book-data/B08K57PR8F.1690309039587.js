@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Every weekday our global network of correspondents makes sense of the stories beneath the headlines. We bring you surprising trends and tales from around the world, current affairs, business and finance—as well as science and technology.</p><p>&nbsp;</p><br><p> Hosted on Acast. See acast.com/privacy for more information.</p>"; 

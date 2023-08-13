@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Discover every X Minus One episode currently available! If you like this series, check us out at https://otrpodcasts.com for even more classic radio shows! Audio Credit: \"X Minus One\" by The Old Time Radio Researchers Group"; 
